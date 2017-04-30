@@ -427,6 +427,7 @@ nameChanged: function(firstName, lastName) {
 
 しかし、オブザーバーは、引数で列挙された依存部が変更された場合だけ呼び出されるので注意してください。例えば、オブザーバーは`this.firstName`に依存しているが、引数のリストに依存部として列挙されていない場合、`this.firstName`の変更に対してオブザーバーが呼び出されることはありません。
 
+<a name="computed-properties"></a>
 ## 算出プロパティ(Computed properties)
 
 算出プロパティは、一つ以上のパスに基づき算出される仮想的なプロパティです。算出プロパティの算出関数(computing function)は、算出プロパティの値に使用された値を返す点を除けば、複雑なオブザーバー(complex observer)と同じルールに従います。
