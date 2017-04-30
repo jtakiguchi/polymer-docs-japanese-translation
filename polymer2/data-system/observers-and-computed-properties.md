@@ -497,4 +497,4 @@ fullName: {
 算出関数の引数は、要素上のシンプルなプロパティかもしれませんが、`observers`でサポートされる引数のタイプと同じならどんなものであっても構いません。これには、[パス](#observe-all-changes-related-to-a-path)、[ワイルドカードを含むパス](#observe-all-changes-related-to-a-path)、[配列スプライスへのパス](#observe-all-changes-related-to-a-path)が含まれます。算出関数が受け取った引数は、上記のセクションで説明したものと一致します。
 
 > **注意**：データバインディングのためにだけに算出プロパティが必要な場合、代わりに算出バインディングを利用できます。詳細は、[算出バインディング](https://github.com/jtakiguchi/polymer-docs-japanese-translation
-/blob/master/docs/polymer2/data-system/data-system-concepts.md#compound-bindings)を参照してください 。
+/blob/master/docs/polymer2/data-system/data-binding.md#computed-bindings)を参照してください 。
