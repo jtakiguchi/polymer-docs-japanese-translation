@@ -316,6 +316,7 @@ this.set('name.last', 'Maturin');
 > **論理否定バインディングは一方向です。**：
 論理否定演算子を使ったバインディングは、**常にホストからターゲットに一方向**になります。
 
+<a name="computed-bindings"></a>
 ### 算出バインディング(Computed bindings)
 
 算出バインディングは[算出プロパティ](https://github.com/jtakiguchi/polymer-docs-japanese-translation
@@ -453,6 +454,7 @@ this.set('name.last', 'Maturin');
 
 > **複合バインディングは一方向**：複合バインディングでは、一方向(`[[ ]]`)または自動(`{{ }}`)バインディングアノテーションを使用することができますが、その向きは**ホストからターゲットに常に一方向**になります。
 
+<a name="binding-to-arrays-and-array-items"></a>
 ## 配列と配列アイテムへのバインディング
 
 アノテーションの解析(parsing)をシンプルに保つために、**Polymerは配列のアイテムに直接バインドする方法を用意していません**。
@@ -480,7 +482,8 @@ this.set('name.last', 'Maturin');
 /blob/master/docs/polymer2/data-system/helper-elements.md/#data-bind-an-array-selection)
 - [配列アイテムにバインド](#binding-to-arrays-and-array-items)
 
-<a name="binding-to-arrays-and-array-items"></a>
+
+<a name="bind-to-an-array-item"></a>
 ### 配列アイテムにバインド
 
 算出バインディングを使用して、特定の配列アイテムやその配列アイテムのサブプロパティにバインドすることができます(例：`array[index].name`)。
@@ -542,6 +545,7 @@ this.set('name.last', 'Maturin');
 配列やオブジェクトのプロパティにバインドする場合、どちらの要素も共有された配列やオブジェクトにアクセスして変更を加えることができます。そのような場合は、*プロパティエフェクト*が上向きに伝播するように、自動バインディングデリミタを使用して下さい。詳細については、[オブジェクトおよび配列のデータフロー](https://github.com/jtakiguchi/polymer-docs-japanese-translation
 /blob/master/docs/polymer2/data-system/data-system-concepts.md#data-flow-for-objects-and-arrays)を参照してください。
 
+<a name="two-way-bind-to-a-non-polymer-element"></a>
 ### Polymer要素でない要素への双方向データバインディング
 
 [変更通知イベント](https://github.com/jtakiguchi/polymer-docs-japanese-translation
