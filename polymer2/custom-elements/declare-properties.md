@@ -56,7 +56,7 @@ customElements.define(XCustom.is, XCustom);
 |`observer`|型： `string`<br><br>プロパティ値は、プロパティ値が変更された時に呼び出されるメソッドの名前として解釈されます。0.5系とは異なり、**プロパティ変更ハンドラは明示的に登録する必要がある点に注意してください。**`propertyNameChanged`メソッドは自動的に実行されることはありません。詳細については、[プロパティ変更コールバック（observers）](url) を参照してください。|
 
 
-
+<a name="property-name-to-attribute-name-mapping"></a>
 ## プロパティ名の属性名へのマッピング
 
 データバインディング、属性からのプロパティへのデシリアライズ、およびプロパティの属性への反映において、Polymerは属性名をプロパティ名に、またその逆に、マッピングを行います。
@@ -264,7 +264,7 @@ class XCustom extends Polymer.Element {
 }
 ~~~
 
-
+<a name="attribute-serialization"></a>
 ### 属性へのシリアライズ
 
 プロパティを属性に反映する場合や[属性にプロパティをバインド](url)する場合、プロパティの値は属性にシリアライズされます。
