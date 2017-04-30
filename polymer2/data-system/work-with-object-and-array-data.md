@@ -43,6 +43,7 @@ var value = this.get('myProp.subProp');
 var item = this.get(['myArray', 11])
 ~~~
 
+<a name="set-a-property-or-subproperty-by-path"></a>
 ## パスによるプロパティまたはサブプロパティの設定
 
 サブプロパティに[監視可能な変更](https://github.com/jtakiguchi/polymer-docs-japanese-translation
@@ -94,6 +95,7 @@ this.notifyPath('profile.name');
 > **可変データ(MutableData)**：`Polymer.MutableData`ミックスインをインクルードした要素の場合、オブジェクトまたは配列上で`notifyPath `を呼び出すと、オブジェクトや配列自身が変更されていなくても、Polymerはそれらオブジェクトや配列から開始して、オブジェクトグラフ全体を再評価します。詳細については、[MutableDataミックスインの使用](https://github.com/jtakiguchi/polymer-docs-japanese-translation
 /blob/master/docs/polymer2/data-system/data-system-concepts.md#using-the-mutabledata-mixin)を参照してください。
 
+<a name="work-with-arrays"></a>
 ## 配列との連携
 
 Polymerの配列変更メソッドを使用して、配列に[監視可能な変更](https://github.com/jtakiguchi/polymer-docs-japanese-translation
@@ -182,7 +184,7 @@ this.setProperties({
   verified: true
 });
 ~~~
-
+<a name="link-two-paths-to-the-same-object"></a>
 ## 同一オブジェクトへのパスをリンク
 
 [linkPaths](https://www.polymer-project.org/2.0/docs/api/elements/Polymer.Element#method-linkPaths)メソッドは二つのパスを関連付けます。[二つのパスが同一のオブジェクトを参照](https://github.com/jtakiguchi/polymer-docs-japanese-translation
