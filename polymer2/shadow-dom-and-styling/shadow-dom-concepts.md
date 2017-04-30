@@ -238,6 +238,7 @@ Shadow DOMには、割り当て(distribution)をチェックするための新�
 
 詳細については、Web Fundamentalsでの[Working with slots in JS](https://developers.google.com/web/fundamentals/primers/shadowdom/?hl=ja#workwithslots)を参照してください。
 
+<a name="observe-added-and-removed-children"></a>
 ### 子の追加と削除の監視(observe)
 
 `Polymer.FlattenedNodesObserver`クラスは、要素の*フラット化されたツリー*を記録(track)するユーティリティを提供します。つまり、`<slot>`要素がdistributed nodeによって置き換えられたノードの子ノードのリストです。 `FlattenedNodesObserver`は`lib/utils/flattened-nodes-observer.html`から読み込むことができるオプションのユーティリティです。
