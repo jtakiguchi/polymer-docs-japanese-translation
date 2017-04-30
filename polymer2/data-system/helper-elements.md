@@ -9,6 +9,7 @@ Polymerは、一般的なデータバインディングのユースケースに�
 
 > **2.0向けのヒント**：データバインディングのヘルパー要素は、下位バージョンと互換性のある`polymer.html`をインポートする際にバンドルされています。レガシーなインポートを利用しない場合、あなたが使用したヘルパー要素を個別にインポートする必要があります。
 
+<a name="template-repeater"></a>
 ## テンプレートリピーター(dom-repeat)
 
 テンプレートリピーターは、配列のバインドに特化したテンプレートです。配列内の各アイテムごとに、テンプレートのコンテンツのインスタンスを一つ生成します。各インスタンスは、次のプロパティを含む新たな[データバインディングのスコープ](https://github.com/jtakiguchi/polymer-docs-japanese-translation
@@ -395,6 +396,7 @@ filter: function(item) {
 
 さらに[delay](https://www.polymer-project.org/2.0/docs/api/elements/dom-repeat#property-delay)プロパティを設定することで、`filter`や`sort`関数が再実行される前に、一定の経過時間(デバウンス時間)を確保することもできます。
 
+<a name="data-bind-an-array-selection"></a>
 ## 配列の選択のデータバインド(array-selector)
 
 構造化されたデータを同期するには、バインドされたデータのパスの関係をPolymerが把握していなければいけません。`array-selector`要素は、配列内から特定のアイテムが選択された際にパスの結合を保証してくれます。
