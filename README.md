@@ -77,13 +77,13 @@
 ||||参照|着手|試訳|校正|備考|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Start|Get started|||[ ]|[ ]|[ ]||
-||Quick tour of Polymer|||[ ]|[ ]|[ ]||
+||Quick tour of Polymer|5/13/17||[x]|[x]|[x]||
 ||Install Polymer 2.x|||[ ]|[ ]|[ ]||
 |Polymer|Feature overview||4/21/17|[x]|[x]|[x]||
 ||What's new|About Polymer2.0|4/21/17|[x]|[x]|[x]||
-|||Upgrade guide|4/21/17|[ ]|[ ]|[ ]||
-|||Heybrid elemnets|4/21/17|[ ]|[ ]|[ ]||
-|||Release notes|4/21/17|[ ]|[ ]|[ ]||
+|||Upgrade guide||[ ]|[ ]|[ ]||
+|||Heybrid elemnets||[ ]|[ ]|[ ]||
+|||Release notes||[ ]|[ ]|[ ]||
 ||Custom elements|Custom element concepts|4/21/17|[x]|[x]|[x]||
 |||Define an element|4/21/17|[x]|[x]|[x]||
 |||Declare properties|4/21/17|[x]|[x]|[x]||
@@ -99,17 +99,17 @@
 |||Data binding|4/21/17|[x]|[x]|[x]||
 |||Helper elements|4/21/17|[x]|[x]|[x]||
 ||Tools|Tools overview|4/21/17|[x]|[x]|[x]||
-|||Polymer CLI|4/21/17|-|-|-|情報の鮮度が大事な箇所なので飛ばした|
-|||Document your elements|4/21/17|-|-|-|2.0向けのアップデートが完了していないので飛ばした|
-|||Test your elements|4/21/17|[ ]|[ ]|[ ]||
+|||Polymer CLI||-|-|-|情報の鮮度が大事な箇所なので飛ばした|
+|||Document your elements||-|-|-|2.0向けのアップデートが完了していないので飛ばした|
+|||Test your elements||[ ]|[ ]|[ ]||
 |||Oprimize for production|4/21/17|[x]|[x]|[x]||
-|||Advance tools|4/21/17|[ ]|[ ]|[ ]||
-|||Services|4/21/17|[ ]|[ ]|[ ]||
-|||polymer.json specification|4/21/17|[ ]|[ ]|[ ]||
-|||Node support|4/21/17|[ ]|[ ]|[ ]||
-||Resources|Browser compatibility|4/21/17|[ ]|[ ]|[ ]||
-|||Glossary|4/21/17|[ ]|[ ]|[ ]||
-||API Reference|API Reference|4/21/17|[ ]|[ ]|[ ]||
+|||Advance tools||[ ]|[ ]|[ ]||
+|||Services||[ ]|[ ]|[ ]||
+|||polymer.json specification||[ ]|[ ]|[ ]||
+|||Node support||[ ]|[ ]|[ ]||
+||Resources|Browser compatibility||[ ]|[ ]|[ ]||
+|||Glossary||[ ]|[ ]|[ ]||
+||API Reference|API Reference||[ ]|[ ]|[ ]||
 |App Toolbox|What's in the box?||4/21/17|[x]|[x]|[x]||
 ||Using the Toolbox|App templates|4/21/17|[x]|[x]|[x]||
 |||Responsive app layout|4/21/17|[x]|[x]|[x]||
@@ -118,7 +118,7 @@
 |||App storage|4/21/17|[x]|[x]|[x]||
 |||Service worker|4/21/17|[x]|[x]|[x]||
 |||Serve your app|4/21/17|[x]|[x]|[x]||
-||Case study|Shop|4/21/17|[ ]|[ ]|[ ]||
-|||News|4/21/17|[ ]|[ ]|[ ]||
+||Case study|Shop||[ ]|[ ]|[ ]||
+|||News||[ ]|[ ]|[ ]||
 |Blog||||||||
 |その他|WebComponenets.org|Introduction|4/21/17|[x]|[x]|[x]||
