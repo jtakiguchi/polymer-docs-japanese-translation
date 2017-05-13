@@ -77,7 +77,7 @@
 ||||参照|着手|試訳|校正|備考|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Start|Get started|||[ ]|[ ]|[ ]||
-||Quick tour of Polymer|5/13/17||[x]|[x]|[x]||
+||Quick tour of Polymer||5/13/17|[x]|[x]|[x]||
 ||Install Polymer 2.x|||[ ]|[ ]|[ ]||
 |Polymer|Feature overview||4/21/17|[x]|[x]|[x]||
 ||What's new|About Polymer2.0|4/21/17|[x]|[x]|[x]||
