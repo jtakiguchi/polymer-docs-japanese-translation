@@ -80,7 +80,7 @@
 ||Quick tour of Polymer||5/13/17|[x]|[x]|[x]||
 ||Install Polymer 2.x|||[ ]|[ ]|[ ]||
 |Polymer|Feature overview||4/21/17|[x]|[x]|[x]||
-||What's new|About Polymer2.0|4/21/17|[x]|[x]|[x]||
+||About this release|What's new in 2.0|4/21/17|[x]|[x]|[x]||
 |||Upgrade guide||[ ]|[ ]|[ ]||
 |||Heybrid elemnets||[ ]|[ ]|[ ]||
 |||Release notes||[ ]|[ ]|[ ]||
@@ -98,6 +98,9 @@
 |||Observers and computed properties|4/21/'17|[x]|[x]|[x]||
 |||Data binding|4/21/17|[x]|[x]|[x]||
 |||Helper elements|4/21/17|[x]|[x]|[x]||
+||Resources|Overview||[ ]|[ ]|[ ]||
+|||Polyfills||[ ]|[ ]|[ ]||
+|||ES6||[ ]|[ ]|[ ]||
 ||Tools|Tools overview|4/21/17|[x]|[x]|[x]||
 |||Polymer CLI||-|-|-|情報の鮮度が大事な箇所なので飛ばした|
 |||Document your elements||-|-|-|2.0向けのアップデートが完了していないので飛ばした|
@@ -107,8 +110,7 @@
 |||Services||[ ]|[ ]|[ ]||
 |||polymer.json specification||[ ]|[ ]|[ ]||
 |||Node support||[ ]|[ ]|[ ]||
-||Resources|Browser compatibility||[ ]|[ ]|[ ]||
-|||Glossary||[ ]|[ ]|[ ]||
+||Resources|Glossary||[ ]|[ ]|[ ]||
 ||API Reference|API Reference||[ ]|[ ]|[ ]||
 |App Toolbox|What's in the box?||4/21/17|[x]|[x]|[x]||
 ||Using the Toolbox|App templates|4/21/17|[x]|[x]|[x]||
@@ -117,8 +119,10 @@
 |||Localization|4/21/17|[x]|[x]|[x]||
 |||App storage|4/21/17|[x]|[x]|[x]||
 |||Service worker|4/21/17|[x]|[x]|[x]||
-|||Serve your app|4/21/17|[x]|[x]|[x]||
+||Deploy|Build for production||[ ]|[ ]|[ ]||
+|||Serve your app||[ ]|[ ]|[ ]||
+|||The PRPL pattern||[ ]|[ ]|[ ]||
 ||Case study|Shop||[ ]|[ ]|[ ]||
 |||News||[ ]|[ ]|[ ]||
 |Blog||||||||
-|その他|WebComponenets.org|Introduction|4/21/17|[x]|[x]|[x]||
+|Others|WebComponenets.org|Introduction|4/21/17|[x]|[x]|[x]||
