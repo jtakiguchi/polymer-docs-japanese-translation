@@ -112,6 +112,7 @@
 |||Node support||[ ]|[ ]|[ ]||
 ||Resources|Glossary||[ ]|[ ]|[ ]||
 ||API Reference|API Reference||[ ]|[ ]|[ ]||
+|||Global settings|7/5/17|[x]|[x]|[ ]||
 |App Toolbox|What's in the box?||4/21/17|[x]|[x]|[x]||
 ||Using the Toolbox|App templates|4/21/17|[x]|[x]|[x]||
 |||Responsive app layout|4/21/17|[x]|[x]|[x]||
