@@ -98,7 +98,7 @@
 |||Observers and computed properties|4/21/'17|[x]|[x]|[x]||
 |||Data binding|4/21/17|[x]|[x]|[x]||
 |||Helper elements|4/21/17|[x]|[x]|[x]||
-||Resources|Overview||[ ]|[ ]|[ ]||
+||Resources|Overview|7/9/17|[x]|[x]|[ ]||
 |||Polyfills||[ ]|[ ]|[ ]||
 |||ES6||[ ]|[ ]|[ ]||
 ||Tools|Tools overview|4/21/17|[x]|[x]|[x]||
@@ -112,7 +112,7 @@
 |||Node support||[ ]|[ ]|[ ]||
 ||Resources|Glossary||[ ]|[ ]|[ ]||
 ||API Reference|API Reference||[ ]|[ ]|[ ]||
-|||Global settings|7/5/17|[x]|[x]|[ ]||
+|||Global settings|7/9/17|[x]|[x]|[ ]||
 |App Toolbox|What's in the box?||4/21/17|[x]|[x]|[x]||
 ||Using the Toolbox|App templates|4/21/17|[x]|[x]|[x]||
 |||Responsive app layout|4/21/17|[x]|[x]|[x]||
